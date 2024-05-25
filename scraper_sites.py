@@ -104,6 +104,3 @@ class FlowerUaScraper(ScraperBase):
                     print(f"Error scraping {item_url}")
                     continue
 
-        
-
-
